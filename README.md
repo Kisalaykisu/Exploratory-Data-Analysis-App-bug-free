@@ -36,4 +36,4 @@ You can access the app [here](https://exploratorydata.herokuapp.com/)
 [Heroku](https://dashboard.heroku.com/) - App host
 
 # Author
-Marina Ramalhete de Souza - [Linkedin](https://www.linkedin.com/in/marinaramalhete/) [Github](https://github.com/marinaramalhete)
+KISALAY SRIVASTAVA - [Linkedin](https://www.linkedin.com/in/kisalay-srivastava-46b243196/) [Github](https://github.com/Kisalaykisu)
