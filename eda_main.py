@@ -413,7 +413,7 @@ def main():
         st.sidebar.title('Hi, everyone!')
         st.sidebar.info('I hope this app data explorer tool is userful for you! \n \
             You find me here: \n \
-            www.linkedin.com/in/kisalay-srivastava-46b243196)
+            www.linkedin.com/in/kisalay-srivastava-46b243196')
 
 
 if __name__ == '__main__':
